@@ -12,10 +12,10 @@ function app() {
         <a
           className="app-link"
          
-          target="_blank"
+          
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React!
         </a>
       </header>
     </div>
