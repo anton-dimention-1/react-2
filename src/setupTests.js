@@ -2,4 +2,4 @@
 // allows you to do things like:
 // expect(element).toHaveTextContent(/react/i)
 // learn more: https://github.com/testing-library/jest-dom1
-import '@testing-library/jest-dom3';
+import '@testing-library/jest-dom2';
